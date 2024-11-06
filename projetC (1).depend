@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1671039298 source:c:\users\moham\desktop\irm\s1\c\ds\rafa\projetc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"bib.h"
+	"ajout.h"
+	"sup.h"
+	"menu.h"
+	"afficheStock.h"
+
+1671022086 c:\users\moham\desktop\irm\s1\c\ds\rafa\projetc\bib.h
+
+1671038142 c:\users\moham\desktop\irm\s1\c\ds\rafa\projetc\ajout.h
+
+1671038684 c:\users\moham\desktop\irm\s1\c\ds\rafa\projetc\sup.h
+
+1671039344 c:\users\moham\desktop\irm\s1\c\ds\rafa\projetc\menu.h
+
+1671039430 c:\users\moham\desktop\irm\s1\c\ds\rafa\projetc\affichestock.h
+
+1671095040 source:c:\users\dell\onedrive\bureau\projetc01\projetc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"bib.h"
+	"ajout.h"
+	"sup.h"
+	"menu.h"
+	"afficheStock.h"
+
+1671040952 c:\users\dell\onedrive\bureau\projetc01\projetc\bib.h
+
+1671092491 c:\users\dell\onedrive\bureau\projetc01\projetc\ajout.h
+
+1671099054 c:\users\dell\onedrive\bureau\projetc01\projetc\sup.h
+
+1671092390 c:\users\dell\onedrive\bureau\projetc01\projetc\menu.h
+
+1671040952 c:\users\dell\onedrive\bureau\projetc01\projetc\affichestock.h
+
+1702367208 source:c:\users\sourour\desktop\irm3\sem1\projetc01\projetc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	<time.h>
+	"bib.h"
+	"ajout.h"
+	"sup.h"
+	"menu.h"
+	"afficheStock.h"
+
+1702290593 c:\users\sourour\desktop\irm3\sem1\projetc01\projetc\bib.h
+
+1702376167 c:\users\sourour\desktop\irm3\sem1\projetc01\projetc\ajout.h
+
+1702370894 c:\users\sourour\desktop\irm3\sem1\projetc01\projetc\sup.h
+
+1702327939 c:\users\sourour\desktop\irm3\sem1\projetc01\projetc\menu.h
+	<windows.h>
+
+1702282598 c:\users\sourour\desktop\irm3\sem1\projetc01\projetc\affichestock.h
+
